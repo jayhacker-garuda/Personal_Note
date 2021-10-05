@@ -5,5 +5,5 @@
 @endsection
 
 @section('content')
-    Register
+    Register badness
 @endsection
